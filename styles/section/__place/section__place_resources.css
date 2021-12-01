@@ -1,0 +1,4 @@
+.section__place_resources {
+    display: flex;
+    flex-direction: column;
+}
