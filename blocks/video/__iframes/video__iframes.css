@@ -1,0 +1,7 @@
+.video__iframes {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    box-align: center;
+    transform: translateY(50px);
+}
